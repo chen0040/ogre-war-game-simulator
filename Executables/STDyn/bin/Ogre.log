@@ -1,0 +1,104 @@
+07:52:18: Creating resource group General
+07:52:18: Creating resource group Internal
+07:52:18: Creating resource group Autodetect
+07:52:18: SceneManagerFactory for type 'DefaultSceneManager' registered.
+07:52:18: Registering ResourceManager for type Material
+07:52:18: Registering ResourceManager for type Mesh
+07:52:18: Registering ResourceManager for type Skeleton
+07:52:18: MovableObjectFactory for type 'ParticleSystem' registered.
+07:52:18: OverlayElementFactory for type Panel registered.
+07:52:18: OverlayElementFactory for type BorderPanel registered.
+07:52:18: OverlayElementFactory for type TextArea registered.
+07:52:18: Registering ResourceManager for type Font
+07:52:18: ArchiveFactory for archive type FileSystem registered.
+07:52:18: ArchiveFactory for archive type Zip registered.
+07:52:18: FreeImage version: 3.10.0
+07:52:18: This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
+07:52:18: Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,cut,xbm,xpm,gif,hdr,g3,sgi,exr,j2k,j2c,jp2
+07:52:18: DDS codec registering
+07:52:18: Registering ResourceManager for type HighLevelGpuProgram
+07:52:18: Registering ResourceManager for type Compositor
+07:52:18: MovableObjectFactory for type 'Entity' registered.
+07:52:18: MovableObjectFactory for type 'Light' registered.
+07:52:18: MovableObjectFactory for type 'BillboardSet' registered.
+07:52:18: MovableObjectFactory for type 'ManualObject' registered.
+07:52:18: MovableObjectFactory for type 'BillboardChain' registered.
+07:52:18: MovableObjectFactory for type 'RibbonTrail' registered.
+07:52:18: Loading library .\RenderSystem_Direct3D9
+07:52:21: Installing plugin: D3D9 RenderSystem
+07:52:21: D3D9 : Direct3D9 Rendering Subsystem created.
+07:52:21: D3D9: Driver Detection Starts
+07:52:21: D3D9: Driver Detection Ends
+07:52:21: Plugin successfully installed
+07:52:21: Loading library .\RenderSystem_GL
+07:52:23: Installing plugin: GL RenderSystem
+07:52:23: OpenGL Rendering Subsystem created.
+07:52:40: Plugin successfully installed
+07:52:40: Loading library .\Plugin_ParticleFX
+07:52:40: Installing plugin: ParticleFX
+07:52:40: Particle Emitter Type 'Point' registered
+07:52:40: Particle Emitter Type 'Box' registered
+07:52:40: Particle Emitter Type 'Ellipsoid' registered
+07:52:40: Particle Emitter Type 'Cylinder' registered
+07:52:40: Particle Emitter Type 'Ring' registered
+07:52:40: Particle Emitter Type 'HollowEllipsoid' registered
+07:52:40: Particle Affector Type 'LinearForce' registered
+07:52:40: Particle Affector Type 'ColourFader' registered
+07:52:40: Particle Affector Type 'ColourFader2' registered
+07:52:40: Particle Affector Type 'ColourImage' registered
+07:52:40: Particle Affector Type 'ColourInterpolator' registered
+07:52:40: Particle Affector Type 'Scaler' registered
+07:52:40: Particle Affector Type 'Rotator' registered
+07:52:40: Particle Affector Type 'DirectionRandomiser' registered
+07:52:40: Particle Affector Type 'DeflectorPlane' registered
+07:52:40: Plugin successfully installed
+07:52:40: Loading library .\Plugin_BSPSceneManager
+07:52:41: Installing plugin: BSP Scene Manager
+07:52:41: Plugin successfully installed
+07:52:41: Loading library .\Plugin_CgProgramManager
+07:52:51: Installing plugin: Cg Program Manager
+07:52:52: Plugin successfully installed
+07:52:52: Loading library .\Plugin_PCZSceneManager.dll
+07:52:52: Installing plugin: Portal Connected Zone Scene Manager
+07:52:52: PCZone Factory Type 'ZoneType_Default' registered
+07:52:52: Plugin successfully installed
+07:52:52: Loading library .\Plugin_OctreeZone.dll
+07:52:52: Installing plugin: Octree Zone Factory
+07:52:52: Plugin successfully installed
+07:52:52: Loading library .\Plugin_OctreeSceneManager
+07:52:52: Installing plugin: Octree & Terrain Scene Manager
+07:52:52: Plugin successfully installed
+07:52:52: *-*-* OGRE Initialising
+07:52:52: *-*-* Version 1.6.2 (Shoggoth)
+07:52:52: Creating resource group Bootstrap
+07:52:53: Added resource location '../media/packs/OgreCore.zip' of type 'Zip' to resource group 'Bootstrap'
+07:52:53: Added resource location '../media' of type 'FileSystem' to resource group 'General'
+07:52:53: Added resource location '../media/fonts' of type 'FileSystem' to resource group 'General'
+07:52:54: Added resource location '../media/materials/programs' of type 'FileSystem' to resource group 'General'
+07:52:55: Added resource location '../media/materials/scripts' of type 'FileSystem' to resource group 'General'
+07:52:55: Added resource location '../media/materials/textures' of type 'FileSystem' to resource group 'General'
+07:52:56: Added resource location '../media/models' of type 'FileSystem' to resource group 'General'
+07:52:56: Added resource location '../media/overlays' of type 'FileSystem' to resource group 'General'
+07:52:56: Added resource location '../media/particle' of type 'FileSystem' to resource group 'General'
+07:52:56: Added resource location '../media/gui' of type 'FileSystem' to resource group 'General'
+07:52:56: Added resource location '../media/DeferredShadingMedia' of type 'FileSystem' to resource group 'General'
+07:52:56: Added resource location '../media/PCZAppMedia' of type 'FileSystem' to resource group 'General'
+07:52:56: Added resource location '../media/packs/cubemap.zip' of type 'Zip' to resource group 'General'
+07:52:56: Added resource location '../media/packs/cubemapsJS.zip' of type 'Zip' to resource group 'General'
+07:52:56: Added resource location '../media/packs/dragon.zip' of type 'Zip' to resource group 'General'
+07:52:56: Added resource location '../media/packs/fresneldemo.zip' of type 'Zip' to resource group 'General'
+07:52:56: Added resource location '../media/packs/ogretestmap.zip' of type 'Zip' to resource group 'General'
+07:52:56: Added resource location '../media/packs/skybox.zip' of type 'Zip' to resource group 'General'
+07:52:56: Added resource location '../media2/models' of type 'FileSystem' to resource group 'General'
+07:52:57: Added resource location '../media2/materials/scripts' of type 'FileSystem' to resource group 'General'
+07:52:57: Added resource location '../media2/materials/textures' of type 'FileSystem' to resource group 'General'
+07:52:57: Added resource location '../media2/particles' of type 'FileSystem' to resource group 'General'
+07:52:57: Added resource location '../media2/overlays' of type 'FileSystem' to resource group 'General'
+07:52:57: D3D9 : RenderSystem Option: Allow NVPerfHUD = No
+07:52:57: D3D9 : RenderSystem Option: Anti aliasing = None
+07:52:57: D3D9 : RenderSystem Option: Floating-point mode = Fastest
+07:52:57: D3D9 : RenderSystem Option: Full Screen = Yes
+07:52:57: D3D9 : RenderSystem Option: Rendering Device = NVIDIA GeForce 8500 GT
+07:52:57: D3D9 : RenderSystem Option: VSync = No
+07:52:57: D3D9 : RenderSystem Option: Video Mode = 800 x 600 @ 32-bit colour
+07:52:57: D3D9 : RenderSystem Option: sRGB Gamma Conversion = No

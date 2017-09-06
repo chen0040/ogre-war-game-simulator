@@ -1,0 +1,122 @@
+
+material G6/Hull
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.584314 0.584314 0.584314 1
+			diffuse 0.584314 0.584314 0.584314 1
+
+			texture_unit
+			{
+				texture_alias 0
+				texture G6_HULL.TGA
+			}
+		}
+
+	}
+
+}
+
+material G6/Material_#155
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 0 1
+			diffuse 0 0 0 1
+		}
+
+	}
+
+}
+
+material G6/Material_#157
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 0 1
+			diffuse 0 0 0 1
+		}
+
+	}
+
+}
+
+material G6/03_-_Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+
+			texture_unit
+			{
+				texture_alias 0
+				texture G6_TURRET.TGA
+			}
+		}
+
+	}
+
+}
+
+material G6/02_-_Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+
+			texture_unit
+			{
+				texture_alias 0
+				texture G6_GunBaseBarrel.tga
+			}
+		}
+
+	}
+
+}
+
+material G6/Material_#159
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 0 1
+			diffuse 0 0 0 1
+		}
+
+	}
+
+}
+
+material G6/07_-_Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+
+			texture_unit
+			{
+				texture_alias 0
+				texture G6_Tyre.tga
+			}
+		}
+
+	}
+
+}

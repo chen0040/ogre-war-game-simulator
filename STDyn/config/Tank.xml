@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<tank_config>
+<param name="scale" value="1.5" />
+<param name="elevation" value="22" />
+<param name="mesh" value="G6.mesh" />
+<param name="speed" value="30" />
+<param name="rotatingSpeed" value="10" />
+<param name="camScanningSpeed" value="5" />
+<param name="LaserLockThreshold" value="10" />
+<param name="life" value="1000" />
+<param name="collisionRadius" value="42" />
+
+<map width="0.2" alpha="1.0" resolution="256" title="Tank View" />
+
+<position x="0" z="0" />
+
+<backCam x="0" y="40" z="160" />
+<cannonCam x="0" y="40" z="-20" />
+
+<gun missile_speed="300" firing_interval="0.3" hit_range="40" damage_radius="10" impact="10" />
+
+<explosion particle_system="XS/Explosion" duration="1" />
+
+</tank_config>

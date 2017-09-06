@@ -1,0 +1,113 @@
+
+material exhibition_building/glass1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.0627451 0.129412 0.188235 1
+			diffuse 0.494118 0.705882 0.592157 0.25
+			scene_blend alpha_blend
+			depth_write off
+		}
+
+	}
+
+}
+
+material exhibition_building/rer
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.862745 0.843137 0.843137 1
+			diffuse 0.984314 0.972549 0.972549 1
+		}
+
+	}
+
+}
+
+material exhibition_building/glass2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.0627451 0.129412 0.188235 1
+			diffuse 0.494118 0.705882 0.623529 0.66
+			scene_blend alpha_blend
+			depth_write off
+		}
+
+	}
+
+}
+
+material exhibition_building/Material_#9
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.211765 0.180392 0.0627451 1
+		}
+
+	}
+
+}
+
+material exhibition_building/Material_#2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 0 1
+			diffuse 0.976471 0.972549 0.972549 1
+		}
+
+	}
+
+}
+
+material exhibition_building/04_-_Default
+{
+	technique
+	{
+		pass
+		{
+		}
+
+	}
+
+}
+
+material exhibition_building/11_-_Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.803922 0.803922 0.803922 1
+			diffuse 0.803922 0.803922 0.803922 1
+		}
+
+	}
+
+}
+
+material exhibition_building/15_-_Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.901961 0.901961 0.901961 1
+			diffuse 0.901961 0.901961 0.901961 1
+		}
+
+	}
+
+}

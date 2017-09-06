@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Satelite>
+<map width="0.2" alpha="1.0" resolution="256" title="Bird's View"/>
+
+<position x="0" z="0" y="1500" />
+
+</Satelite>

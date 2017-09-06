@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<menu visible="true">
+    <caelum id="dynamic">
+        <option id="dynamic">
+            <time scale="256.000000" />
+            <cloud speedX="0.010000" speedY="-0.010000" />
+            <location latitude="45.000000" longitude="0.000000" />
+        </option>
+        <option id="static" />
+    </caelum>
+</menu>

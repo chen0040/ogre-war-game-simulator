@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<URAV>
+<param name="scale" value="0.2" />
+<param name="animation" value="Idle" />
+<param name="mesh" value="robot.mesh" />
+<param name="life" value="10" />
+<param name="elevation" value="10" />
+<param name="depth" value="5" />
+
+<explosion particle_system="XS/Explosion" duration="60" />
+</URAV>

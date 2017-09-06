@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<resources>
+<resource src="../media2/models" />
+<resource src="../media2/materials/scripts" />
+<resource src="../media2/materials/textures" />
+<resource src="../media2/particles" />
+<resource src="../media2/overlays" />
+<resource src="../media2/caelum" />
+</resources>

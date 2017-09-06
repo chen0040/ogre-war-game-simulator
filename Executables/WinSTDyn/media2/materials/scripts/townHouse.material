@@ -1,0 +1,226 @@
+
+material townHouse/Material_-_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.466667 0.392157 0.321569 1
+			diffuse 0.466667 0.392157 0.321569 1
+		}
+
+	}
+
+}
+
+material townHouse/Material_-_1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.0509804 0.196078 0.00392157 1
+			diffuse 0.0509804 0.196078 0.00392157 1
+			scene_blend alpha_blend
+			depth_write off
+		}
+
+	}
+
+}
+
+material townHouse/Material_-_10
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.698039 0.4 0.698039 1
+			diffuse 0.698039 0.4 0.698039 1
+
+			texture_unit
+			{
+				texture_alias 0
+				texture WALL1.TIF
+			}
+		}
+
+	}
+
+}
+
+material townHouse/Material_-_11
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.698039 0.698039 0.698039 1
+			diffuse 0.698039 0.698039 0.698039 1
+
+			texture_unit
+			{
+				texture_alias 0
+				texture MBRICK2.TIF
+			}
+		}
+
+	}
+
+}
+
+material townHouse/Material_-_12
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.917647 0.933333 0.933333 1
+			diffuse 0.917647 0.933333 0.933333 1
+		}
+
+	}
+
+}
+
+material townHouse/Material_-_2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.698039 0.698039 0.698039 1
+			diffuse 0.698039 0.698039 0.698039 1
+
+			texture_unit
+			{
+				texture_alias 0
+				texture CARTEL01.TIF
+			}
+		}
+
+	}
+
+}
+
+material townHouse/Material_-_3
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.698039 0.698039 0.698039 1
+			diffuse 0.698039 0.698039 0.698039 1
+
+			texture_unit
+			{
+				texture_alias 0
+				texture CARTEL02.TIF
+			}
+		}
+
+	}
+
+}
+
+material townHouse/Material_-_4
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.4 0.698039 0.698039 1
+			diffuse 0.4 0.698039 0.698039 1
+
+			texture_unit
+			{
+				texture_alias 0
+				texture BRICK.TIF
+			}
+		}
+
+	}
+
+}
+
+material townHouse/Material_-_5
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.698039 0.4 0.4 1
+			diffuse 0.698039 0.4 0.4 1
+
+			texture_unit
+			{
+				texture_alias 0
+				texture COVER.TIF
+			}
+		}
+
+	}
+
+}
+
+material townHouse/Material_-_6
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.831373 0.768628 0.682353 1
+			diffuse 0.831373 0.768628 0.682353 1
+		}
+
+	}
+
+}
+
+material townHouse/Material_-_7
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.611765 0.607843 0.603922 1
+			diffuse 0.611765 0.607843 0.603922 1
+		}
+
+	}
+
+}
+
+material townHouse/Material_-_8
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.698039 0.698039 0.698039 1
+			diffuse 0.698039 0.698039 0.698039 1
+
+			texture_unit
+			{
+				texture_alias 0
+				texture PLATE.TIF
+			}
+		}
+
+	}
+
+}
+
+material townHouse/Material_-_9
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.517647 0.517647 0.517647 1
+			diffuse 0.517647 0.517647 0.517647 1
+		}
+
+	}
+
+}

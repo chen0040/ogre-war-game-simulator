@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<URAV>
+    <param name="scale" value="0.2" />
+    <param name="animation" value="Idle" />
+    <param name="mesh" value="robot.mesh" />
+    <param name="life" value="10" />
+    <param name="elevation" value="10" />
+    <param name="depth" value="5" />
+    <explosion particle_system="XS/Explosion" duration="60" />
+    <locations>
+        <location x="-311.792877" y="102.220024" z="-169.179657" />
+        <location x="-311.792877" y="102.220024" z="-169.179657" />
+        <location x="-311.823730" y="145.040054" z="-164.126617" />
+        <location x="-313.215271" y="145.040054" z="-211.662796" />
+        <location x="-311.740631" y="59.080109" z="-178.266968" />
+    </locations>
+</URAV>

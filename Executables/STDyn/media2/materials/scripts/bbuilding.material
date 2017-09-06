@@ -1,0 +1,308 @@
+
+material bbuilding/Material_-_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.584314 0.584314 0.584314 1
+			diffuse 0.584314 0.584314 0.584314 1
+
+			texture_unit
+			{
+				texture_alias 0
+				texture R02_03.png
+			}
+		}
+
+	}
+
+}
+
+material bbuilding/Material_-_1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.584314 0.584314 0.584314 1
+			diffuse 0.584314 0.584314 0.584314 1
+
+			texture_unit
+			{
+				texture_alias 0
+				texture R02_02.png
+			}
+		}
+
+	}
+
+}
+
+material bbuilding/Material_-_10
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.584314 0.584314 0.584314 1
+			diffuse 0.584314 0.584314 0.584314 1
+
+			texture_unit
+			{
+				texture_alias 0
+				texture B02C_CON.png
+			}
+		}
+
+	}
+
+}
+
+material bbuilding/Material_-_11
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.584314 0.584314 0.584314 1
+			diffuse 0.584314 0.584314 0.584314 1
+		}
+
+	}
+
+}
+
+material bbuilding/Material_-_12
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.584314 0.584314 0.584314 1
+			diffuse 0.584314 0.584314 0.584314 1
+
+			texture_unit
+			{
+				texture_alias 0
+				texture ground.png
+			}
+		}
+
+	}
+
+}
+
+material bbuilding/Material_-_13
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 0 1
+			diffuse 0 0 0 1
+		}
+
+	}
+
+}
+
+material bbuilding/Material_-_14
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.584314 0.584314 0.584314 1
+			diffuse 0.584314 0.584314 0.584314 1
+
+			texture_unit
+			{
+				texture_alias 0
+				texture R01.png
+			}
+		}
+
+	}
+
+}
+
+material bbuilding/Material_-_15
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.2 0.2 0.2 1
+			diffuse 0.584314 0.584314 0.584314 1
+
+			texture_unit
+			{
+				texture_alias 0
+				texture WIN.png
+			}
+		}
+
+	}
+
+}
+
+material bbuilding/Material_-_2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.2 0.2 0.2 1
+			diffuse 0.584314 0.584314 0.584314 1
+
+			texture_unit
+			{
+				texture_alias 0
+				texture B02_CON.png
+			}
+		}
+
+	}
+
+}
+
+material bbuilding/Material_-_3
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.2 0.2 0.2 1
+			diffuse 0.584314 0.584314 0.584314 1
+
+			texture_unit
+			{
+				texture_alias 0
+				texture B04_CON.png
+			}
+		}
+
+	}
+
+}
+
+material bbuilding/Material_-_4
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.2 0.2 0.2 1
+			diffuse 0.584314 0.584314 0.584314 1
+
+			texture_unit
+			{
+				texture_alias 0
+				texture DOOR.png
+			}
+		}
+
+	}
+
+}
+
+material bbuilding/Material_-_5
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.2 0.2 0.2 1
+			diffuse 0.584314 0.584314 0.584314 1
+
+			texture_unit
+			{
+				texture_alias 0
+				texture B03_CON.png
+			}
+		}
+
+	}
+
+}
+
+material bbuilding/Material_-_6
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.2 0.2 0.2 1
+			diffuse 0.584314 0.584314 0.584314 1
+
+			texture_unit
+			{
+				texture_alias 0
+				texture B01.png
+			}
+		}
+
+	}
+
+}
+
+material bbuilding/Material_-_7
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.2 0.2 0.2 1
+			diffuse 0.584314 0.584314 0.584314 1
+
+			texture_unit
+			{
+				texture_alias 0
+				texture B02B_CON.png
+			}
+		}
+
+	}
+
+}
+
+material bbuilding/Material_-_8
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.2 0.2 0.2 1
+			diffuse 0.584314 0.584314 0.584314 1
+
+			texture_unit
+			{
+				texture_alias 0
+				texture B01_C.png
+			}
+		}
+
+	}
+
+}
+
+material bbuilding/Material_-_9
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.2 0.2 0.2 1
+			diffuse 0.584314 0.584314 0.584314 1
+
+			texture_unit
+			{
+				texture_alias 0
+				texture B01_B.png
+			}
+		}
+
+	}
+
+}

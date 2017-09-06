@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<building_architecture architecture="conformance">
+
+<architecture name="random" />
+<architecture name="conformance" type="1"/> <!-- 1 or 2 -->
+
+</building_architecture>

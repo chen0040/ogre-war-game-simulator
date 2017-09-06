@@ -7,4 +7,4 @@ The project was developed using OGRE SDK with/without MFC in VS2005
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Z5E_FW6b_4M/0.jpg)](http://www.youtube.com/watch?v=Z5E_FW6b_4M)
 
-[img-01](screenshots/05.jpg)
+![img-01](screenshots/05.jpg)
